@@ -1,1 +1,5 @@
 /target
+.DS_store
+.idea/
+.vscode/
+*.blend1
